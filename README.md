@@ -14,7 +14,7 @@
 
 ---
 
-## About
+## About Me
 
 A Software Engineer driven by a simple curiosity: **"How does this scale?"**
 

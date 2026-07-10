@@ -45,7 +45,6 @@ into database internals.
 |---|---|---|
 | **[MiniKV](https://github.com/Akshay1299/minikv)** | Java | Embedded, crash-safe key-value store on an **LSM-tree** — WAL, SSTables, Bloom filters, compaction. Zero dependencies. |
 | **[MemSentry](https://github.com/Akshay1299/memsentry)** | Java | Zero-config **JVM memory-leak agent** — attach via `-javaagent`, detect leaks with JFR, alert before OOM. |
-| **[Documentation](https://github.com/Akshay1299/Documentation)** | Guides | Deep-dive engineering references — starting with a complete **JVM & system-memory** guide with custom diagrams. |
 | **[Bytesmith](https://github.com/Akshay1299/bytesmith)** | TypeScript | Privacy-first, in-browser **developer toolbox** (JSON, diffing, encoding) — everything stays client-side. |
 | **[MemeAdda](https://github.com/Akshay1299/memeadda)** | React · TS | A meme board for fun — trending + themed packs, served live from Reddit & Tenor. |
 

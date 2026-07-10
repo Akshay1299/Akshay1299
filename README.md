@@ -4,7 +4,7 @@
 
 # Akshay Lavate
 
-**SDE @ Flipkart**  ·  Prev: **Walmart** · **Motive** · **Micron**  ·  IIIT Lucknow '24
+**SDE @ Flipkart**  ·  Prev: **@ Walmart** · **@ Motive** · **@ Micron**  ·  IIIT Lucknow '24
 
 <a href="https://www.linkedin.com/in/akshay-lavate/"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=4EA1F3" alt="LinkedIn"/></a>
 <a href="https://akshay12.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
